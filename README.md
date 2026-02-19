@@ -46,8 +46,7 @@ Lighthouse Audit: High scores in Performance, Accessibility, and Best Practices.
 📖 How to Run Locally
 Clone the repo:
 
-Bash
-git clone https://github.com/your-username/dubai-fine-dining.git
+
 Install dependencies:
 
 Bash
