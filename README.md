@@ -1,73 +1,58 @@
-# Welcome to your Lovable project
 
-## Project info
+🍽️ Dubai Fine Dining – Premium Restaurant Landing Page
+A high-fidelity, performance-optimized landing page built for the luxury dining industry in Dubai. This project demonstrates a fast-launch workflow  with a focus on premium aesthetics and smooth user experience.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🚀 Technical Stack
 
-## How can I edit this code?
+Framework: Next.js 14 (App Router) 
 
-There are several ways of editing your application.
 
-**Use Lovable**
+Styling: Tailwind CSS (Mobile-first, responsive design) 
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+Animations: Framer Motion (Scroll-triggered reveals & smooth transitions) 
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Deployment: Vercel 
 
-Follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+✨ Key Features
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Premium UI/UX: Dark-themed luxury aesthetic tailored for high-end brands.
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Responsive Excellence: Fully optimized for all breakpoints—Desktop, Tablet, and Mobile.
+
+
+Performance: Optimized images and lightweight components for near-instant load times.
++1
+
+
+Interactive Elements: Smooth scroll animations and hover effects using Framer Motion.
+
+🛠️ Performance & QA
+To ensure agency-standard quality, the following steps were implemented:
+
+
+Pixel Accuracy: Section-by-section audit against design tokens (typography, spacing, colors).
+
+
+Cross-Browser Testing: Verified on Chrome, Safari, and Firefox.
+
+
+Lighthouse Audit: High scores in Performance, Accessibility, and Best Practices.
+
+📖 How to Run Locally
+Clone the repo:
+
+Bash
+git clone https://github.com/your-username/dubai-fine-dining.git
+Install dependencies:
+
+Bash
+npm install
+Run the development server:
+
+Bash
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
