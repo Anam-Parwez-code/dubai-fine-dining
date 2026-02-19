@@ -180,7 +180,7 @@ const Reservations = () => {
           </AnimatedSection>
         </div>
       </section>
-    </Layout>
+
   );
 };
 
